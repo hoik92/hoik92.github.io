@@ -33,13 +33,6 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
-# jekyll_admin:
-#   hidden_links:
-#     - posts
-#     - pages
-#     - staticfiles
-#     - datafiles
-#     - configuration
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
