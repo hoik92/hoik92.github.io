@@ -2,7 +2,7 @@
 layout: post
 title:  "test"
 author: Hoik Jang
-categories: Blog
+categories: [Blog]
 comments: true
 ---
 
