@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "test2"
+title:  "test4"
 author: Hoik Jang
+categories: [hohoho]
 comments: true
 ---
 
