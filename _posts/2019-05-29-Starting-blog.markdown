@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Blog] blog를 시작하며"
+title:  "[Jekyll] blog를 시작하며"
 author: Hoik Jang
-categories: Dummy
+categories: jekyll
 comments: true
 ---
 
