@@ -67,3 +67,4 @@ AMI(Amazon Machine Image)를 선택한다.
 
 
 다음에는 Windows 운영체제 내에서 위의 인스턴스에 접속하는 방법을 포스팅하겠다.
+
