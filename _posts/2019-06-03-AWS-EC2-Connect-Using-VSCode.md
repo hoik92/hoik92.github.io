@@ -63,6 +63,8 @@ comments: true
 
 파일을 수정하고 저장한 후 VSCode를 재실행한다.
 
-`F1`키를 눌러 ftp-simple를 입력한 후 ftp-simple: Remote directory open to workspace를 클릭한 후 위에서 지정했던 ftp 연결의 name을 클릭하면 상세 directory를 지정여 열 수 있다. (보통 username이 ubuntu일 경우 PuTTY 실행 시 기본 디렉토리로 지정된 곳은 home/ubuntu 이다.)
+`F1`키를 눌러 ftp-simple를 입력한 후 ftp-simple: Remote directory open to workspace를 클릭한 후 위에서 지정했던 ftp 연결의 name을 클릭하면 상세 directory를 지정하여 열 수 있다. (보통 username이 ubuntu일 경우 PuTTY 실행 시 기본 디렉토리로 지정된 곳은 home/ubuntu 이다.)
+
+![aws_vscode_ftp_config](/assets/img/aws/aws_vscode_ftp_config.jpg)
 
 이제 VSCode를 통해 EC2 인스턴스 내의 코드를 작성하고 수정할 수 있을 것이다.
