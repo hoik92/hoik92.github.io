@@ -9,7 +9,7 @@ sitemap:
   priority: 1.0
 ---
 
-앞서 만든 UserCreationForm, AuthenticationForm은 User 모델의 인스턴스를 생성할 때, 이를 이용해 로그인을 할 때 필요한 Django 내부에 구현된 메소드이다.
+앞서 만든 UserCreationForm, AuthenticationForm은 User 모델의 인스턴스를 생성할 때, 이를 이용해 로그인을 할 때 필요한 Django 내부에 구현된 클래스이다.
 
 이들을 이용하면 편리하게 회원가입, 로그인 페이지를 구현할 수 있지만 보기에 예쁘지는 않다.(굉장히 주관적이다..)
 
