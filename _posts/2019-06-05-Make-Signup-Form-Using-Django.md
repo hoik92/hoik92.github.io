@@ -147,3 +147,14 @@ accounts/templates/accounts 폴더 안에 form.html 파일을 생성하고 다�
 위의 화면을 보면 url에 `signup`이라는 단어가 있으므로 `h1` 태그로 '회원가입'이라 표시된다.
 
 사용자 이름, 비밀번호 등의 입력 폼은 Django 프레임워크에서 구현되어있고 이를 편집하여 사용할 수도 있다.
+
+
+
+서버를 실행하기 전에 사용자 정보를 담는 모델을 데이터베이스에 적용시켜 테이블을 생성해야 한다.
+
+shell command에서 아래의 명령어를 입력한다.
+
+```shell
+python manage.py migrate
+```
+
