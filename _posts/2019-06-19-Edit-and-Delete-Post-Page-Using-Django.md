@@ -90,12 +90,12 @@ def delete_post(request, post_id):
 index.html 템플릿에 수정, 삭제 버튼을 추가한다.
 
 ```html
-<!-- index.html -->
+<!-- index.html -->{% raw %}
 <a href="{% url 'posts:edit_post' post.id %}"><button>수정</button></a>
 <form action="{% url 'posts:delete_post' post.id %}" method="POST">
     {% csrf_token %}
     <button type="submit">삭제</button>
-</form>
+</form>{% endraw %}
 ```
 
 위의 버튼을 적절한 위치에 추가한다.
