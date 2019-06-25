@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] 포스트 수정 및 삭제하기"
+title: "[Django] Project01 - 포스트 수정 및 삭제하기"
 author: Hoik Jang
 categories: Django
 comments: true

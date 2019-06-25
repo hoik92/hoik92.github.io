@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] Django를 이용하여 로그인, 로그아웃 만들기"
+title: "[Django] Project01 - Django를 이용하여 로그인, 로그아웃 만들기"
 author: Hoik Jang
 categories: Django
 comments: true

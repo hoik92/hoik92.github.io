@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] Django의 AbstractUser를 상속받아 팔로우 기능 더하기"
+title: "[Django] Project01 - Django의 AbstractUser를 상속받아 팔로우 기능 더하기"
 author: Hoik Jang
 categories: Django
 comments: true

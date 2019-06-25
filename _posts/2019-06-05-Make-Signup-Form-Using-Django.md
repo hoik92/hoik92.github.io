@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] Django를 이용하여 회원가입 페이지 만들기"
+title: "[Django] Project01 - Django를 이용하여 회원가입 페이지 만들기"
 author: Hoik Jang
 categories: Django
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] Post 모델을 생성하여 포스트 작성하기"
+title: "[Django] Project01 - Post 모델을 생성하여 포스트 작성하기"
 author: Hoik Jang
 categories: Django
 comments: true

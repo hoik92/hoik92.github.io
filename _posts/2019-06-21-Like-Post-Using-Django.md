@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] 게시물 좋아요 기능 구현"
+title: "[Django] Project01 - 게시물 좋아요 기능 구현"
 author: Hoik Jang
 categories: Django
 comments: true

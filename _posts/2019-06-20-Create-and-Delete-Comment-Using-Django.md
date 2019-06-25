@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] Comment 모델을 생성하여 댓글 기능 추가"
+title: "[Django] Project01 - Comment 모델을 생성하여 댓글 기능 추가"
 author: Hoik Jang
 categories: Django
 comments: true

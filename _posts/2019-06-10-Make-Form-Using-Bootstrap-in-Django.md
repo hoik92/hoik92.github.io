@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Django] form을 수정하고 bootstrap 적용하기"
+title: "[Django] Project01 - form을 수정하고 bootstrap 적용하기"
 author: Hoik Jang
 categories: Django
 comments: true
